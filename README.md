@@ -1,2 +1,5 @@
-# cpp-learning
-My C++ learning journey — fundamentals, practice programs, problem solving, and small projects.
+# C++ Learning
+
+Documenting my journey of learning C++ from scratch.
+
+This repository contains my practice programs, exercises, and small projects as I learn new concepts.
