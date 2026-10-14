@@ -17,3 +17,13 @@ int main() {
 
     return 0;
 }
+
+
+
+// Example Output--- 
+
+// Enter your name, hero: Yasir
+
+// Welcome, Yasir!
+// Your friendly neighborhood Spider-Man is watching.
+// With great power comes great responsibility.
